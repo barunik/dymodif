@@ -1,8 +1,8 @@
 # Site settings
 title: DyMoDiF
-email: your-email@domain.com
+email: barunik@utia.cas.cz
 url: "http://barunik.github.io"
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Dynamic Models for the Digital Finance <br/> GACR EXPRO GX19-28231X project <br/> (2019 - 2023)"
 baseurl: "/dymodif"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Jozef Barunik
 
 # Build settings
 markdown: kramdown
